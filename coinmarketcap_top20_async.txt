@@ -1,0 +1,160 @@
+1. Rank: 
+   Name: 34.33K CMC20 ()
+   Price: $191.15
+   24h Change: 0.13%
+   Market Cap: $6.56M$6,563,091
+   24h Volume: $5,581,67629.20K
+   Circulating Supply: CoinMarketCap 20 Index DTFCMC20Buy
+
+2. Rank: 1
+   Name: BitcoinBTCBuy (BTC)
+   Price: $90,408.24
+   24h Change: 0.33%
+   Market Cap: $1.8T$1,804,571,163,217
+   24h Volume: $70,225,014,359776.75K
+   Circulating Supply: 19.96M BTC
+
+3. Rank: 2
+   Name: EthereumETHBuy (ETH)
+   Price: $3,209.36
+   24h Change: 0.67%
+   Market Cap: $387.36B$387,355,378,889
+   24h Volume: $34,994,707,50910.89M
+   Circulating Supply: 120.69M ETH
+
+4. Rank: 3
+   Name: TetherUSDTBuy (USDT)
+   Price: $1.00
+   24h Change: 0.02%
+   Market Cap: $186.12B$186,119,272,975
+   24h Volume: $115,874,141,765115.84B
+   Circulating Supply: 186.07B USDT
+
+5. Rank: 4
+   Name: XRPXRPBuy (XRP)
+   Price: $2.01
+   24h Change: 0.38%
+   Market Cap: $121.57B$121,571,136,734
+   24h Volume: $4,133,033,6612.05B
+   Circulating Supply: 60.33B XRP
+
+6. Rank: 5
+   Name: BNBBNBBuy (BNB)
+   Price: $867.05
+   24h Change: 0.31%
+   Market Cap: $119.42B$119,424,240,612
+   24h Volume: $2,564,218,1772.95M
+   Circulating Supply: 137.73M BNB
+
+7. Rank: 6
+   Name: USDCUSDCBuy (USDC)
+   Price: $0.9999
+   24h Change: 0.00%
+   Market Cap: $78.28B$78,279,202,299
+   24h Volume: $15,435,634,37815.43B
+   Circulating Supply: 78.28B USDC
+
+8. Rank: 7
+   Name: SolanaSOLBuy (SOL)
+   Price: $131.20
+   24h Change: 0.33%
+   Market Cap: $73.71B$73,708,937,410
+   24h Volume: $6,691,693,50051.00M
+   Circulating Supply: 561.77M SOL
+
+9. Rank: 8
+   Name: TRONTRXBuy (TRX)
+   Price: $0.2801
+   24h Change: 0.41%
+   Market Cap: $26.53B$26,527,692,281
+   24h Volume: $649,911,2692.31B
+   Circulating Supply: 94.68B TRX
+
+10. Rank: 9
+   Name: DogecoinDOGEBuy (DOGE)
+   Price: $0.1378
+   24h Change: 0.20%
+   Market Cap: $20.97B$20,969,267,846
+   24h Volume: $1,757,834,09512.75B
+   Circulating Supply: 152.13B DOGE
+
+11. Rank: 10
+   Name: CardanoADABuy (ADA)
+   Price: $0.4236
+   24h Change: 0.18%
+   Market Cap: $15.21B$15,212,128,981
+   24h Volume: $1,123,701,2992.65B
+   Circulating Supply: 35.91B ADA
+
+12. Rank: 11
+   Name: Bitcoin CashBCHBuy (BCH)
+   Price: $561.96
+   24h Change: 0.48%
+   Market Cap: $11.22B$11,219,819,251
+   24h Volume: $406,905,826724.07K
+   Circulating Supply: 19.96M BCH
+
+13. Rank: 12
+   Name: ChainlinkLINKBuy (LINK)
+   Price: $13.57
+   24h Change: 0.72%
+   Market Cap: $9.46B$9,460,132,050
+   24h Volume: $858,710,79763.25M
+   Circulating Supply: 696.84M LINK
+
+14. Rank: 13
+   Name: HyperliquidHYPEBuy (HYPE)
+   Price: $27.96
+   24h Change: 0.17%
+   Market Cap: $9.41B$9,414,944,989
+   24h Volume: $289,328,29310.34M
+   Circulating Supply: 336.68M HYPE
+
+15. Rank: 14
+   Name: UNUS SED LEOLEOBuy (LEO)
+   Price: $9.42
+   24h Change: 0.39%
+   Market Cap: $8.69B$8,687,454,272
+   24h Volume: $883,71093.78K
+   Circulating Supply: 921.93M LEO
+
+16. Rank: 15
+   Name: StellarXLMBuy (XLM)
+   Price: $0.2417
+   24h Change: 0.74%
+   Market Cap: $7.82B$7,821,433,325
+   24h Volume: $194,554,281804.69M
+   Circulating Supply: 32.35B XLM
+
+17. Rank: 16
+   Name: MoneroXMRBuy (XMR)
+   Price: $403.43
+   24h Change: 0.96%
+   Market Cap: $7.44B$7,442,084,017
+   24h Volume: $190,126,521471.26K
+   Circulating Supply: 18.44M XMR
+
+18. Rank: 17
+   Name: ZcashZECBuy (ZEC)
+   Price: $415.05
+   24h Change: 0.94%
+   Market Cap: $6.82B$6,820,234,222
+   24h Volume: $982,311,5452.36M
+   Circulating Supply: 16.43M ZEC
+
+19. Rank: 18
+   Name: Ethena USDeUSDeBuy ()
+   Price: $0.9995
+   24h Change: 0.01%
+   Market Cap: $6.55B$6,551,287,803
+   24h Volume: $174,740,668174.81M
+   Circulating Supply: 6.55B USDe
+
+20. Rank: 19
+   Name: LitecoinLTCBuy (LTC)
+   Price: $80.96
+   24h Change: 0.26%
+   Market Cap: $6.2B$6,202,882,024
+   24h Volume: $549,773,5586.79M
+   Circulating Supply: 76.61M LTC
+
